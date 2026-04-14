@@ -13,3 +13,8 @@ To analyze customer support ticket data and identify key trends in customer issu
 - A high number of unresolved tickets highlights the need for improved response and resolution processes
 ## Conclusion
 This project highlights areas of improvement in customer support operations and helps in better decision-making.
+## Visualizations
+### Tickets by Type
+![Tickets by Type](ticket_type.png)
+### Tickets by Status
+![Tickets by Status](ticket_status.png)
