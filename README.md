@@ -18,3 +18,15 @@ This project highlights areas of improvement in customer support operations and 
 ![Tickets by Type](ticket_type.png)
 ### Tickets by Status
 ![Tickets by Status](ticket_status.png)
+
+
+
+Sales Data Analysis Project
+- Analyzed sales dataset using Excel
+- Created pivot tables to evaluate performance by category and region
+- Identified key trends and derived business insights
+
+Key Insights:
+- Top-performing category contributes highest revenue
+- Certain regions outperform others in sales
+- Opportunities exist to improve underperforming segments
