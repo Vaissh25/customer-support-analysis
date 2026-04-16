@@ -26,6 +26,14 @@ Sales Data Analysis Project
 - Created pivot tables to evaluate performance by category and region
 - Identified key trends and derived business insights
 
+
+
+Total Sales - 2.26M
+Top Category - Technology
+Top region - West
+Top Customer - Sean Miller
+Top Month - Jan 2015
+
 Key Insights:
 - Top-performing category contributes highest revenue
 - Certain regions outperform others in sales
